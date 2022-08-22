@@ -23,3 +23,10 @@ We are able retrieve multiple UFOs sightings by adding a search filter.
 ![module-11-ufo-finder-web-page-with-filters](https://user-images.githubusercontent.com/105765150/185943124-af32ca27-9b9c-4600-83a6-19601d11b8e8.png)
 
 # Summary
+The resulting dynamic Web Page has all the data Dana asked for, but the information is not real-time. Even though the webpage might look appealing to the eye, there is room for improvement. The webpage would be more beneficial for users if they could also retrieve current data for UFO sightings. The webpage is also restrictive, and the user has to be specific. There should be other options to get the information. 
+
+# Recommendations for Improvement
+- The user should be able to retrieve past and current UFO sightings. 
+- There should be a dropdown menu for filters where you can navigate the webpage more efficiently. 
+- There should be a pop-up window for data that are not available.
+- The locations of past and current sightings would be important, so a map should be added to the webpage.
